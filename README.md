@@ -56,6 +56,7 @@ WebMCP lets websites expose `navigator.modelContext.registerTool()` (imperative)
 - **[Excalidraw WebMCP](https://excalidraw.leanmcp.live/)** — Draw and edit on a live Excalidraw canvas.
 
 - **[Graphite Draw](https://graphite.leanmcp.live/)** — Create vector artwork in real time.
+- **[1 Million Emojis](https://chriswijnia.com/lab/emoji)** -- a shared emoji canvas that agents can draw on through WebMCP tools
 
 
 - [GoogleChromeLabs React Flight Search](https://googlechromelabs.github.io/webmcp-tools/demos/react-flightsearch/) — Official travel booking demo
