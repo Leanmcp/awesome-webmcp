@@ -100,6 +100,8 @@ WebMCP lets websites expose `navigator.modelContext.registerTool()` (imperative)
 - [MCP-B Full Documentation](https://docs.mcp-b.ai/)
 
 ## Websites
+
+- [CompareDataBuyers](https://comparedatabuyers.com/buyers/) - Find and compare AI data licensing programs, check published criteria without uploading records, and prepare an inquiry brief. Browser WebMCP tools update the same visible controls used manually. [Qualification and brief tools](https://comparedatabuyers.com/qualify/) omit private scope notes from agent-generated briefs and preserve unknown program terms. Requires a browser with native WebMCP available.
 - https://mcp-b.ai/
 - https://webmachinelearning.github.io/webmcp/
 - https://leanmcp.com/ 
