@@ -79,6 +79,7 @@ WebMCP lets websites expose `navigator.modelContext.registerTool()` (imperative)
 - [WebMCP Explained for Product Teams](https://departmentofproduct.substack.com/p/webmcp-explained-for-product-teams)
 
 ## Videos
+- [WebMCPly Video Library](https://webmcply.com/video-library) — Short WebMCP explainers and illustrative website-action journeys, with captioned examples and film transcripts.
 - [WebMCP: Agents on the Web and in the Browser (Alex Nahas interview)](https://www.youtube.com/watch?v=6Po39iD6Pfs)
 - [Web AI Summit 2025: Don't let AI agents push your buttons — use WebMCP instead!](https://www.youtube.com/watch?v=p1l8nkQAoUw)
 - [The Rise of WebMCP — Sam Witteveen](https://www.youtube.com/watch?v=35oWt7u2b-g)
