@@ -45,6 +45,7 @@ WebMCP lets websites expose `navigator.modelContext.registerTool()` (imperative)
 ## Tools & Inspector Extensions
 - **[Model Context Tool Inspector](https://chromewebstore.google.com/detail/model-context-tool-inspec/gbpdfapgefenggkahomfgkhfehlcenpd)** — Official Chrome Labs tool (inspect + execute live)
 - MCP-B Chrome/Edge/Firefox Extension — sidebar chat that discovers tools across tabs
+- **[CrawlWise WebMCP Checker](https://crawlwise.dev/tools/webmcp-checker)** — Free online checker for declarative WebMCP form attributes, imperative `modelContext` registrations in Chromium, parameter schemas, and tool name collisions
 
 ## Demos and Samples
 
